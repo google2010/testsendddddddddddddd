@@ -1,0 +1,12 @@
+{
+  "name": "testsendddddddddddddd",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "nodemailer": "^6.9.4",
+    "uuid": "^9.0.0"
+  }
+}
